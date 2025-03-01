@@ -22,7 +22,7 @@ first page legal website
          </div>
     </div>
     <div class="text-center space-y-4 pt-[8rem]">
-      <h1 class=" text-white font-bold text-4xl">KAWOLEGAL</h1><br>
+      <h1 class=" text-white font-bold text-5xl">KAWOLEGAL</h1><br>
       <h6 class="text-white text-2xl text-center" >A collaborative ecosystem for <br>problem solvers and support for Startups</h6>
       <button class=" bg-blue-600 h-[3rem] w-[8rem] text-center text-bold text-white">Register Now!</button>
     </div>
